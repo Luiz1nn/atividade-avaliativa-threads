@@ -12,6 +12,7 @@
 - A primeira implementação aguarda a conclusão de cada thread individualmente usando `join` para cada uma delas.
 - A segunda implementação usa awaitTermination para aguardar a conclusão de todas as threads criadas pelo ExecutorService.
 
+`
 
     import java.util.Scanner;
     import java.util.concurrent.ExecutorService;
