@@ -8,6 +8,7 @@
 - Na primeira implementação, o algoritmo de ordenação Merge Sort é implementado de forma iterativa usando loops. A função mergeSort divide o vetor em subvetores menores e, em seguida, mescla esses subvetores.
 - Na segunda implementação, o algoritmo de ordenação Merge Sort é implementado de forma recursiva. Isso é mais comum na implementação do Merge Sort e é mais legível. A função mergeSort é chamada recursivamente para dividir o vetor em subvetores menores até que cada subvetor tenha apenas um elemento. Em seguida, os subvetores são mesclados recursivamente em um vetor ordenado.
 
+`
 
     import java.util.Arrays;
     import java.util.Scanner;
